@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jro31
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jethro. I build things.
+- 🛠 My favourite tools are Ruby on Rails with React/Next.js.
+- 👀 Outside of coding (and sometimes because of it) I run. Often too far.
+- 👨🏼‍💻 I'm currently taking on new projects.
+- 🙋‍♂️ To learn more, find me at [jethrowilliams.com](https://jethrowilliams.com/).
+<!-- Add jethro.codes to this line once it's onilne -->
 
 <!---
 jro31/jro31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
